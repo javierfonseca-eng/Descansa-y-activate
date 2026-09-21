@@ -1,0 +1,6 @@
+{
+  "name": "Pausa Activa HUV - Sala de Partos",
+  "description": "Pausas activas de 2 minutos para el personal de turno de la Sala de Partos del Hospital Universitario del Valle (HUV). Estiramientos, descanso visual y respiración guiada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
